@@ -1,0 +1,22 @@
+{
+  "name": "complementary-color",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/draganradu/complementary-color.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/draganradu/complementary-color/issues"
+  },
+  "homepage": "https://github.com/draganradu/complementary-color#readme",
+  "dependencies": {
+    "simple-color-converter": "^2.0.4"
+  }
+}
