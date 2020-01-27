@@ -1,6 +1,6 @@
 {
   "name": "complementary-color",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -15,8 +15,14 @@
   "bugs": {
     "url": "https://github.com/draganradu/complementary-color/issues"
   },
+  "keywords": [
+    "complementary",
+    "color",
+    "complementary color",
+    "anycolor"
+  ],
   "homepage": "https://github.com/draganradu/complementary-color#readme",
   "dependencies": {
-    "simple-color-converter": "^2.0.4"
+    "simple-color-converter": "^2.1.3"
   }
 }
